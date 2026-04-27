@@ -15,7 +15,7 @@ To complete this, I tried to answer real e-commerce business questions using SQL
 
 ## Key Findings
 - São Paulo gathers most of transactions : *47 449 orders, 5 202 955,05BRL revenue*
-- There are three major product categories : low value but high volume, high value and low volume, mid value and mid volume
+- There are three major product categories : low value but high volume, high value and low volume, mid value and mid volume : * 1st = health_beauty 1 258 681BRL, 2nd = watches_gifts 1 205 005BRL, 3rd = bed_bath_table 1 036 988BRL
 - Top seller focus on the last one
 - Top categories in São Paulo are : mid-range products and products with high purchase frequency.
 - This database doesn't have enough information about individual prices inside categories which makes it difficult to establish the real value of each category 

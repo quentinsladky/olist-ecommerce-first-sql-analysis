@@ -1,7 +1,7 @@
 # Olist E-Commerce — First SQL Analysis
 
 This project is my first end-to-end SQL data analysis. 
-I chose to work on a real database to test my skills, and this particular database because my goal is to learn how to manage a real brand. 
+I chose to work on a real database to test my skills, and this particular database because the retail/e-commerce sector aligns with my career interests
 To complete this, I tried to answer real e-commerce business questions using SQL and Python.
 
 ## Business Questions
@@ -14,7 +14,7 @@ To complete this, I tried to answer real e-commerce business questions using SQL
 6. Which are the top category among the sellers ?  
 
 ## Key Findings
-- São Paulo gathers most of transactions 
+- São Paulo gathers most of transactions : *47 449 orders, 5 202 955,05BRL revenue*
 - There are three major product categories : low value but high volume, high value and low volume, mid value and mid volume
 - Top seller focus on the last one
 - Top categories in São Paulo are : mid-range products and products with high purchase frequency.

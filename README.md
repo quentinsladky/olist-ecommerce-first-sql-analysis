@@ -4,6 +4,10 @@ This project is my first end-to-end SQL data analysis.
 I chose to work on a real database to test my skills, and this particular database because the retail/e-commerce sector aligns with my career interests
 To complete this, I tried to answer real e-commerce business questions using SQL and Python.
 
+## Preview 
+[View the notebook on nbviewer]
+() 
+
 ## Business Questions
 1. Top 10 catégories ranked by global income
 2. Top 10 most perfoming sellers 

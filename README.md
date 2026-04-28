@@ -9,9 +9,9 @@ To complete this, I tried to answer real e-commerce business questions using SQL
 2. Top 10 most perfoming sellers 
 3. Average cart per seller
 4. Which states have customers who spend the most ? 
-4(1bis). SP order more in quantity or price ?
-4(2bis). What are the top categories at SP ?
-6. Which are the top category among the sellers ?  
+4a. SP order more in quantity or price ?
+4b. What are the top categories at SP ?
+5. Which are the top category among the sellers ?  
 
 ## Key Findings
 - São Paulo gathers most of transactions : *47 449 Orders, 5 202 955,05BRL Revenue*
@@ -22,7 +22,7 @@ To complete this, I tried to answer real e-commerce business questions using SQL
 
 ## What I Learned
 - Writing complex SQL queries with JOINs and CTEs
-- First utilization of WITH
+- First use of SQL CTEs (WITH clause)
 - Translating business questions into SQL queries
 - Understanding biases in data analysis
 - Working with real-world messy datasets
@@ -32,10 +32,13 @@ To complete this, I tried to answer real e-commerce business questions using SQL
 `SQL` `Python` `Pandas` `SQLite` `Jupyter` `Data Analysis` `Business Thinking`
 
 ## Project Structure
-- `olist_analysis.ipynb` 
-- `olist.db` 
+- `olist_analysis.ipynb` — Main Jupyter Notebook (SQL queries + analysis)
+- `olist.db` — SQLite database (generated from Kaggle CSV files)
+- `olist_analysis.py` — Script to load CSV files into SQLite
+- `queries.py` — Raw SQL queries used in the analysis
 
 ## How to Run
-1. ...
-2. ...
-3. ...
+1. Download the Kaggle Olist dataset : https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+2. Place the CSV files in the project folder
+3. Run `python3 olist_analysis.py` to generate `olist.db`
+4. Open `olist_analysis.ipynb` in Jupyter Notebook

@@ -22,7 +22,11 @@ To complete this, I tried to answer real e-commerce business questions using SQL
 
 ## What I Learned
 - Writing complex SQL queries with JOINs and CTEs
-- First use of WITH 
+- First utilization of WITH
+- Translating business questions into SQL queries
+- Understanding biases in data analysis
+- Working with real-world messy datasets
+- Structuring an end-to-end data analysis project
 
 ## Skills Demonstrated
 `SQL` `Python` `Pandas` `SQLite` `Jupyter` `Data Analysis` `Business Thinking`

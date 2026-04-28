@@ -10,11 +10,11 @@ To complete this, I tried to answer real e-commerce business questions using SQL
 
 ## Business Questions
 1. Top 10 catégories ranked by global income
-2. Top 10 most perfoming sellers 
+2. Top 10 most performing sellers 
 3. Average cart per seller
-4. Which states have customers who spend the most ? 
-4a. SP order more in quantity or price ?
-4b. What are the top categories at SP ?
+4. Which states have customers who spend the most ?
+   - 4a. Does SP order more in quantity or price ?
+   - 4b. What are the top categories at SP ?
 5. Which are the top category among the sellers ?  
 
 ## Key Findings

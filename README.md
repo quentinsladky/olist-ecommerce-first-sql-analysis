@@ -6,7 +6,7 @@ To complete this, I tried to answer real e-commerce business questions using SQL
 
 ## Preview 
 [View the notebook on nbviewer]
-() 
+(https://nbviewer.org/github/quentinsladky/olist-ecommerce-first-sql-analysis/blob/main/olist_analysis_.ipynb) 
 
 ## Business Questions
 1. Top 10 catégories ranked by global income

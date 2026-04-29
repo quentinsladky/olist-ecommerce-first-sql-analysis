@@ -5,8 +5,7 @@ I chose to work on a real database to test my skills, and this particular databa
 To complete this, I tried to answer real e-commerce business questions using SQL and Python.
 
 ## Preview 
-[View the notebook on nbviewer]
-(https://nbviewer.org/github/quentinsladky/olist-ecommerce-first-sql-analysis/blob/main/olist_analysis_.ipynb) 
+[View the notebook on nbviewer](https://nbviewer.org/github/quentinsladky/olist-ecommerce-first-sql-analysis/blob/main/olist_analysis_.ipynb)
 
 ## Business Questions
 1. Top 10 catégories ranked by global income
